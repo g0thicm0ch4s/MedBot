@@ -54,6 +54,3 @@ MedBot provides general information only and cannot replace professional medical
 
 ---
 
-## Project Description (for GitHub)
-
-> **MedBot is an AI-powered medical chatbot that provides preliminary health guidance, symptom analysis, and home remedy suggestions. Built with FastAPI and React, MedBot offers a safe, conversational, and user-friendly experience for anyone seeking quick health information.** 
